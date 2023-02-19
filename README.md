@@ -1,6 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/111189928/218187652-7940300f-9d44-4417-9e97-4fc14614644b.png)
-
+<img src="https://github.com/doug-sales1819/doug-sales1819/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
 
 - 👋 Hi, I’m @PedroHugoMP
 - 👀 I’m interested in learning more and more about technologies
