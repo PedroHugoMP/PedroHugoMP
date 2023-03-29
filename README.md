@@ -1,6 +1,3 @@
-
-<img src="https://github.com/PedroHugoMP/PedroHugoMP/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
-
 - 👋 Hi, I’m @PedroHugoMP
 - 👀 I’m interested in learning more and more about technologies
 - 🌱 I’m currently learning full stack development at @Senai-SP
